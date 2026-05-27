@@ -21,6 +21,7 @@ Full-stack GTM operator. I run both halves of demand, inbound and outbound, and 
 ### Automations
 - [Pipeline auto-sync](work/automations/pipeline-auto-sync.md) , zero-touch CRM hygiene.
 - [Call-scoring pipeline](work/automations/call-scoring-pipeline.md) , Whisper to Claude to a daily digest.
+- [Closed-loop disposition analysis](work/automations/disposition-analysis.md) , turns cold-outreach disposition data into sharper next-campaign targeting.
 
 ---
 
