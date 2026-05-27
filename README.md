@@ -21,7 +21,6 @@ Full-stack GTM operator. I run both halves of demand, inbound and outbound, and 
 ### Automations
 - [Pipeline auto-sync](work/automations/pipeline-auto-sync.md) , zero-touch CRM hygiene.
 - [Call-scoring pipeline](work/automations/call-scoring-pipeline.md) , Whisper to Claude to a daily digest.
-- [Job-application pipeline](work/automations/job-application-pipeline.md) , a personal outbound job search, automated.
 
 ---
 
